@@ -55,6 +55,8 @@ Order Date
 
 Derived metrics such as sales, YTD/QTD calculations, and aggregations were created within Power BI using DAX.
 
+---
+
 📈 Key KPIs Displayed
 
 YTD Sales: $2.18M
