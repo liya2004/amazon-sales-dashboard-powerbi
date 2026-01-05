@@ -5,6 +5,8 @@ This project presents an interactive Power BI dashboard for analyzing Amazon pro
 
 The objective is to help stakeholders understand business performance and customer engagement through clear, visual storytelling.
 
+---
+
 🎯 Objectives
 
 Analyze Year-to-Date (YTD) and Quarter-to-Date (QTD) sales
@@ -17,6 +19,9 @@ Highlight top products by sales and customer reviews
 
 Enable interactive filtering for deeper insights
 
+--- 
+
+
 🛠 Tools & Technologies
 
 Power BI Desktop
@@ -26,6 +31,8 @@ Microsoft Excel (dataset)
 Power Query (data cleaning & transformation)
 
 DAX (calculated measures)
+
+---
 
 📂 Dataset Description
 
@@ -43,6 +50,8 @@ Shipment Details
 
 Order Date
 
+---
+
 Derived metrics such as sales, YTD/QTD calculations, and aggregations were created within Power BI using DAX.
 
 📈 Key KPIs Displayed
@@ -54,6 +63,8 @@ QTD Sales: $811.09K
 YTD Products Sold: 27.75K
 
 YTD Reviews: 19.42M
+
+---
 
 📊 Dashboard Insights
 🔹 Sales Trends
@@ -80,6 +91,8 @@ Filters by Product Category and Quarter
 
 Dynamic visuals responding to user selections
 
+---
+
 ▶️ How to Use (Correct for .pbit file)
 
 Clone or download this repository
@@ -92,6 +105,8 @@ Refresh the data
 
 Use filters and visuals to explore insights
 
+---
+
 🚀 Future Enhancements
 
 Add sales forecasting
@@ -102,9 +117,9 @@ Shipment performance analysis
 
 SQL-based data preprocessing
 
+---
+
 👤 Author
 
 Liya Nazrin
-Aspiring Data / Business Analyst
-
 🔗 LinkedIn: (www.linkedin.com/in/liya-nazrin)
