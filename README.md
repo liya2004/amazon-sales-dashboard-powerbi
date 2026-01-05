@@ -70,6 +70,7 @@ YTD Reviews: 19.42M
 ---
 
 📊 Dashboard Insights
+
 🔹 Sales Trends
 
 Monthly sales growth with peak performance towards year-end
