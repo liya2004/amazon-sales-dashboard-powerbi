@@ -1,4 +1,7 @@
 📊 Sales Analysis | Amazon Products (Power BI)
+
+---
+
 🔍 Project Overview
 
 This project presents an interactive Power BI dashboard for analyzing Amazon product sales performance. The dashboard provides insights into sales trends, product categories, customer reviews, and top-performing products using time-based and category-based analysis.
@@ -49,8 +52,6 @@ Number of Reviews
 Shipment Details
 
 Order Date
-
----
 
 Derived metrics such as sales, YTD/QTD calculations, and aggregations were created within Power BI using DAX.
 
